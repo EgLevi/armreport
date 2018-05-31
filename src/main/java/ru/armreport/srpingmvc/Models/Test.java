@@ -24,10 +24,6 @@ public class Test {
         this.password = password;
     }
 
-    @Override
-    public String toString() {
-        return "Someone{" +
-                "email=" + email +
-                ", password= " + password + "}";
-    }
+
+
 }
