@@ -2,21 +2,26 @@
 <html>
 <head>
     <title>Someone Info</title>
+    <link href="../src/css/bootstrap.css" rel="stylesheet" type="text/css" >
 </head>
 <body>
 
 <h2>Someone Information</h2>
-<table>
+<table class="table table-hover">
+    <thead>
     <tr>
-        <td>name</td>
-        <td>${email}</td>
+        <th scope="col">#</th>
+        <th scope="col">First</th>
+        <th scope="col">Last</th>
     </tr>
+    </thead>
+    <tbody>
     <tr>
-    <tr>
-        <td>password</td>
+        <th scope="row">1</th>
+        <td>${email}</td>
         <td>${password}</td>
     </tr>
-    <tr>
+    </tbody>
 </table>
 </body>
 </html>
