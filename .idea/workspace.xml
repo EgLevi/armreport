@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c13da971-503c-4d6d-a9e2-0a3a51c6106f" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT/META-INF/MANIFEST.MF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT/WEB-INF/classes/ru/armreport/srpingmvc/Models/Test.class" afterPath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT/WEB-INF/classes/ru/armreport/srpingmvc/Models/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ru/armreport/srpingmvc/Models/Test.class" afterPath="$PROJECT_DIR$/target/classes/ru/armreport/srpingmvc/Models/Test.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ARMREPORT.iml" afterPath="$PROJECT_DIR$/ARMREPORT.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/ru/armreport/srpingmvc/Models/Test.java" afterPath="$PROJECT_DIR$/src/main/java/ru/armreport/srpingmvc/Models/Test.java" />
@@ -12,8 +15,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/pages/login.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/pages/login.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/webapp/pages/result.jsp" afterPath="$PROJECT_DIR$/src/main/webapp/pages/result.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT/WEB-INF/mvc-dispatcher-servlet.xml" afterPath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT/WEB-INF/mvc-dispatcher-servlet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT/WEB-INF/web.xml" afterPath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT/WEB-INF/web.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT/pages/login.jsp" afterPath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT/pages/login.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT/pages/result.jsp" afterPath="$PROJECT_DIR$/target/ARM-REPORT-1.0-SNAPSHOT/pages/result.jsp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -142,8 +146,8 @@
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/mvc-dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/src/main/java/ru/armreport/srpingmvc/Models/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/pages/result.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/pages/login.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/pages/result.jsp" />
       </list>
     </option>
   </component>
@@ -1019,12 +1023,12 @@
       <workItem from="1527530270926" duration="7841000" />
       <workItem from="1527615115343" duration="626000" />
       <workItem from="1527616289306" duration="6000" />
-      <workItem from="1527784677251" duration="11251000" />
+      <workItem from="1527784677251" duration="11647000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39200000" />
+    <option name="totallyTimeSpent" value="39596000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1036,8 +1040,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="876" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
